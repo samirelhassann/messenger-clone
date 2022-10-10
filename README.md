@@ -1,4 +1,4 @@
-# Devsfood
+# WhatsApp Clone
 
 A WhatsApp clone using ReactJS, TypeScript and Firebase with the tools:
 
