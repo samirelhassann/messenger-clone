@@ -16,7 +16,7 @@ This is a project used for study purposes only • [Samir El Hassan](https://git
 
 ## Demo
 
-![devsfood](https://user-images.githubusercontent.com/91634008/193152558-5d399c87-cecf-4b81-92b0-64d94954e007.png)
+![image](https://user-images.githubusercontent.com/91634008/194923506-5dfaa6b7-9b1e-4bd6-83b7-24924d84a9a3.png)
 
 ## Instalation
 
