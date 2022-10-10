@@ -18,6 +18,9 @@ This is a project used for study purposes only • [Samir El Hassan](https://git
 
 ![image](https://user-images.githubusercontent.com/91634008/194923506-5dfaa6b7-9b1e-4bd6-83b7-24924d84a9a3.png)
 
+![WhatsApp-clone-demo](https://user-images.githubusercontent.com/91634008/194923620-57b4b04e-370e-4c7f-a87c-d31008988c0f.gif)
+
+
 ## Instalation
 
 ```bash
