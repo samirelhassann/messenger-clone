@@ -1,12 +1,13 @@
 # WhatsApp Clone
 
-A WhatsApp clone using ReactJS, TypeScript and Firebase with the tools:
+A WhatsApp clone using ReactJS, TypeScript and Firebase and using the following packages:
 
 - styled-components
 - react-redux
 - react-router-dom
 - material-ui icons
 - material-ui components
+- emoji-picker-react
 
 This is a project used for study purposes only • [Samir El Hassan](https://github.com/samirelhassann)
 
