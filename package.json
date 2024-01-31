@@ -2,6 +2,7 @@
   "name": "react-whatsapp-clone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://samirelhassann.github.io/whatsapp-clone",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
@@ -38,7 +39,9 @@
     "lint-fix": "eslint ./ --fix",
     "prepare": "husky install",
     "test": "jest --watch",
-    "coverage": "jest --coverage"
+    "coverage": "jest --coverage",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -71,7 +74,8 @@
     "eslint-plugin-security": "^1.5.0",
     "husky": ">=6",
     "lint-staged": ">=10",
-    "react-test-renderer": "^18.2.0"
+    "react-test-renderer": "^18.2.0",
+    "gh-pages": "^5.0.0"
   },
   "lint-staged": {
     "*.{ts,tsx}": [

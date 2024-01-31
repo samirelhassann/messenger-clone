@@ -21,15 +21,14 @@ This is a project used for study purposes only • [Samir El Hassan](https://git
 
 ![WhatsApp-clone-demo](https://user-images.githubusercontent.com/91634008/194923620-57b4b04e-370e-4c7f-a87c-d31008988c0f.gif)
 
-
 ## Instalation
 
 ```bash
-npm install
+yarn install
 ```
 
 ## Usage
 
 ```bash
-npm start
+yarn start
 ```
