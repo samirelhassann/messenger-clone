@@ -1,6 +1,6 @@
-# WhatsApp Clone
+# Messenger Clone
 
-A WhatsApp clone using ReactJS, TypeScript and Firebase.
+A Messenger clone using ReactJS, TypeScript and Firebase.
 
 This is a project used for study purposes only • [Samir El Hassan](https://github.com/samirelhassann)
 
